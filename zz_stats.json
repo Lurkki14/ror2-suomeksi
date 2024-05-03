@@ -1,0 +1,23 @@
+{
+	"strings": {
+		"STATNAME_HIGHESTDAMAGEDEALT": "Eniten tehty vahinko",
+		"STATNAME_HIGHESTLEVEL": "Korkein taso",
+		"STATNAME_TOTALDAMAGEDEALT": "Tehty vahinko",
+		"STATNAME_TOTALDAMAGETAKEN": "Otettu vahinko",
+		"STATNAME_TOTALDEATHS": "Kuolemat",
+		"STATNAME_TOTALGOLDCOLLECTED": "Kerätyt kultakolikot",
+		"STATNAME_TOTALITEMSCOLLECTED": "Kerätyt tavarat",
+		"STATNAME_TOTALKILLS": "Tapot",
+		"STATNAME_TOTALMINIONDAMAGEDEALT": "Kätyrien tehty vahinko",
+		"STATNAME_TOTALMINIONKILLS": "Kätyrien tapot",
+		"STATNAME_TOTALPURCHASES": "Ostot",
+		"STATNAME_TOTALTIMEALIVE": "Aika elossa",
+		"STAT_CLASS_NAME_FORMAT": "Luokka: <color=#FFFF7F>{0}</color>",
+		"STAT_CONTINUE": "Jatka",
+		"STAT_INFO": "Tiedot",
+		"STAT_POINTS_FORMAT": "<color=#FFFF7F>{0}</color> pistettä",
+		"STAT_SURVIVOR_STATS": "Selviytyjän tilastot",
+		"STAT_TITLE": "TIlastot",
+		"STAT_TOTAL": "Yhteensä"
+	}
+}

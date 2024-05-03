@@ -1,0 +1,24 @@
+{
+	"strings": {
+		"OBJECTIVE_CHARGE_TELEPORTER": "Varaa <style=cDeath>teleporttaaja <sprite name=\"TP\" tint=1></style> ({0}%)",
+		"OBJECTIVE_CHARGE_TELEPORTER_OOB": "Astu <style=cDeath>teleporttaaja-alueen</style> sisään! ({0}%)",
+		"OBJECTIVE_DEFEAT_BOSS": "Päihitä päävastus!",
+		"OBJECTIVE_FIND_TELEPORTER": "Löydä ja aktivoi <style=cDeath>teleporttaaja <sprite name=\"TP\" tint=1></style>",
+		"OBJECTIVE_FINISH_TELEPORTER": "Etene <style=cDeath>teleporttaajan <sprite name=\"TP\" tint=1></style> läpi",
+		"OBJECTIVE_MOON_BATTERY_BLOOD": "Varaa <style=cLunarObjective>veripylväs!</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_BLOOD_OOB": "Astu <style=cLunarObjective>veripylväsalueen</style> sisään! ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_DESIGN": "Varaa <style=cLunarObjective>luomuspylväs</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_DESIGN_OOB": "Astu <style=cLunarObjective>luomuspylväsalueen</style> sisään! ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_MASS": "Varaa <style=cLunarObjective>massapylväs</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_MASS_OOB": "Astu <style=cLunarObjective>massapylväsalueen</style> sisään! ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_MISSION": "Varaa <style=cLunarObjective>pylväät</style> ({0}/{1})",
+		"OBJECTIVE_MOON_BATTERY_SOUL": "Varaa <style=cLunarObjective>sielupylväs</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_SOUL_OOB": "Astu <style=cLunarObjective>sielupylväsalueen</style> sisään! ({0}%)",
+		"OBJECTIVE_MOON_CHARGE_DROPSHIP": "Puolusta <style=cHumanObjective>pelastusalusta</style> ({0}%)",
+		"OBJECTIVE_MOON_CHARGE_DROPSHIP_OOB": "Puolusta <style=cHumanObjective>pelastusalusta! </style>({0}%)",
+		"OBJECTIVE_MOON_DROPSHIP_WAIT_FOR_ALLIES": "Pakene!",
+		"OBJECTIVE_MOON_RELEASE_DROPSHIP": "Löydä keino vapauttaa <style=cHumanObjective>pelastusalus</style>",
+		"OBJECTIVE_SELFDESTRUCT_ESCAPE": "Tuleva kuun räjäytys",
+		"OBJECTIVE_TITLE": "Tavoite:"
+	}
+}

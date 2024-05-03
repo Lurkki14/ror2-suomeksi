@@ -1,0 +1,31 @@
+{
+	"strings": {
+		"MAP_ANCIENTLOFT_SUBTITLE": "Puhdistautumiskeskus",
+		"MAP_ANCIENTLOFT_TITLE": "Aphelinen pyhättö",
+		"MAP_BAZAAR_TITLE": "Piilotettu alue: aikojenvälinen basaari",
+		"MAP_BLACKBEACH_SUBTITLE": "Nollapiste",
+		"MAP_BLACKBEACH_TITLE": "Kaukainen pesimäpaikka",
+		"MAP_DAMPCAVE_SUBTITLE": "Mannerlaattojen jäännös",
+		"MAP_DAMPCAVE_TITLE": "Syöverin syvyydet",
+		"MAP_FOGGYSWAMP_SUBTITLE": "Kuntoutusalue",
+		"MAP_FOGGYSWAMP_TITLE": "Kosteikon suunta",
+		"MAP_FROZENWALL_SUBTITLE": "\"Yhteysvalo\" -selviytyjäleiri",
+		"MAP_FROZENWALL_TITLE": "Kokoontumispiste delta",
+		"MAP_GOLEMPLAINS_SUBTITLE": "Nollapiste",
+		"MAP_GOLEMPLAINS_TITLE": "Titaaninen tasanko",
+		"MAP_GOOLAKE_SUBTITLE": "Tervan alkukoti",
+		"MAP_GOOLAKE_TITLE": "Hylätty akvedukti",
+		"MAP_MOON_SUBTITLE": "Petrichor V:n kuu",
+		"MAP_MOON_TITLE": "Alkupiste",
+		"MAP_SHIPGRAVEYARD_SUBTITLE": "Alusten hautausmaa",
+		"MAP_SHIPGRAVEYARD_TITLE": "Sireenin kutsu",
+		"MAP_SKYMEADOW_SUBTITLE": "Hengen kentät",
+		"MAP_SKYMEADOW_TITLE": "Taivasniitty",
+		"MAP_SNOWYFOREST_SUBTITLE": "Alkupiste",
+		"MAP_SNOWYFOREST_TITLE": "Lapettu metsä",
+		"MAP_SULFURPOOLS_SUBTITLE": "Pistävä lähde",
+		"MAP_SULFURPOOLS_TITLE": "Rikkialtaat",
+		"MAP_WISPGRAVEYARD_SUBTITLE": "Virvakkeiden asettumispaikka",
+		"MAP_WISPGRAVEYARD_TITLE": "Kärvennetyt hehtaarit"
+	}
+}
